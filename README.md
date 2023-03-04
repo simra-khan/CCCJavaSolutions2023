@@ -1,5 +1,5 @@
 # CCCJavaSolutions2023
-Contains all of my solutions to the CCC 2023 problems, both Junior and Senior. Programmed in Java.
+Contains all of my solutions to the CCC 2023 problems, both Junior and Senior. Programmed in Java. Currently being updated with all of the problems.
 
 The CCC is a programming contest hosted every February by the University of Waterloo. Below is a link to all of the CCC 2023 problems and the official commentary on them from Waterloo:
 
